@@ -1,6 +1,6 @@
 Hi, I'm Pace <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Owner of the Minecraft servers called AxolotlSMP and JungleRealms>
+<p><em>Owner of the Minecraft servers called AxolotlSMP and JungleRealms
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -39,7 +39,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-944-blue)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Paceski)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
  > 
