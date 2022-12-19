@@ -26,8 +26,8 @@ const anmol = {
             native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase", "Socket.IO", "Selenium", "Open-cv", "PHP", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
