@@ -17,7 +17,7 @@ Hi, I'm Pace <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" w
 const pace = {
     pronouns: "He" | "Him",
     code: ["Java", "JavaScript", "Python", "Kotlin", "PHP"],
-    askMeAbout: ["spigot plugin development", "tech", "app development"],
+    askMeAbout: ["spigot plugin development", "tech", "app development", "web development"],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
