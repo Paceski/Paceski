@@ -18,9 +18,6 @@ const pace = {
     code: ["Java", "JavaScript", "Python", "Kotlin", "PHP"],
     askMeAbout: ["spigot plugin development", "tech", "app development", "web development"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
         mobileApp: {
             native: ["Android Development"]
         },
@@ -28,8 +25,6 @@ const pace = {
         databases: ["MongoDB", "MySQL", "SQLite"],
         misc: ["Firebase", "Socket.IO", "Selenium", "Open-cv", "PHP", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
