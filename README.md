@@ -22,7 +22,7 @@ const pace = {
             native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["MongoDB", "MySQL", "SQLite"],
+        databases: ["HikariCP", "MongoDB", "MySQL", "SQLite"],
         misc: ["Firebase", "Socket.IO", "Selenium", "Open-cv", "PHP", "SuiteApp"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
